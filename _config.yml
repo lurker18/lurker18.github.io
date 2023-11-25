@@ -20,13 +20,14 @@ url:                   https://lurker18.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Gun Il's Homepage
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+    Gun Il Kim received the B.S. degree in International Studies in Business and Economics from Yonsei University in 2018, 
+    the M.S in Information Systems from Yonsei University in 2021, and currently taking the Ph.D. course in Information Systems 
+    from Yonsei University, Seoul, Korea in 2021. His research interests involve NLP and deep learning. 
 
 # A shorter description for the sidebar.
 tagline:               Change `tagline` in `_config.yml`
@@ -37,13 +38,13 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
-
+#logo:                  /assets/img/logo.png
+logo:                  https://twitter.com/lurker_killer18/photo
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Gun Il> <Kim>
+  email:               <kim_gunil_94@yonsei.ac.kr>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
