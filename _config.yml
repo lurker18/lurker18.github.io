@@ -30,7 +30,7 @@ description:           >
     from Yonsei University, Seoul, Korea in 2021. His research interests involve NLP and deep learning. 
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+#tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
 keywords:              []
@@ -38,7 +38,7 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/profile/Me.jpg
+logo:                  /assets/img/profile/Kim Gun Il_1.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
