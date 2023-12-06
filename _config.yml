@@ -30,7 +30,7 @@ description:           >
     from Yonsei University, Seoul, Korea in 2021. His research interests involve NLP and deep learning. 
 
 # A shorter description for the sidebar.
-#tagline:               Change `tagline` in `_config.yml`
+tagline:               TEST
 
 # A list of keywords for your blog
 keywords:              []
